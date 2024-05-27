@@ -1,0 +1,184 @@
+html, body {
+    height:100%;
+}
+
+#pageloader {
+            border: 12px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 12px solid #444444;
+            width: 70px;
+            height: 70px;
+            animation: spin 1s linear infinite;
+        }
+
+        .centerloader {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+
+        @keyframes spin {
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: var(--Dirty-White, #F8F8F5);
+  color: var(--Black, #282828);
+}
+
+h2 {
+  color: var(--Black, #282828);
+  font-family: "Centra No1",Arial, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 0px 0px 8px 0px;
+}
+
+p {
+  color: var(--Black, #282828);
+  font-family: "Source Sans Pro",Arial, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0px;
+}
+
+
+ul{
+ margin: 0px;
+ padding-left:24px;
+}
+
+li{
+  margin-bottom: 8px;
+}
+
+.header {
+  display: flex;
+  padding: 24px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+}
+
+.container {
+  padding: 0px 24px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.second-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+
+  align-self: stretch;
+  padding-bottom: 24px;
+}
+
+
+
+.player {
+
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+}
+
+ .playermin{
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+}
+
+  .center{
+  position: absolute;
+  height:100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+          }
+
+.audioplayer{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 280px;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+
+}
+
+
+/* Style the tab */
+.tab{
+  cursor:pointer;
+}
+
+.tab-container {
+  float: left;
+  display: flex;
+  flex-direction: row;
+  padding: 24px 24px;
+  align-items: center;
+  align-self: stretch;
+  overflow: scroll;
+}
+
+/* Style the buttons inside the tab */
+.tab-container button {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  border: 4px solid var(--Black,#282828);
+  margin-bottom: -4px;
+  font-family: "Centra No1",Arial, sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  color: var(--Black, #282828);
+  line-height: 20px; /* 95.238% */
+  white-space: nowrap;
+  margin-left: -4px;
+}
+
+/* Change background color of buttons on hover */
+.tab-container button:hover {
+  background-color: #B6D7FF;
+}
+
+/* Create an active/current "tab button" class */
+.tab-container button.active {
+  background: var(--Black, #282828);
+  color: var(--Dirty-White, #F8F8F5);
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  display: flex;
+  max-width: 800px;
+  padding: 0px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+}
