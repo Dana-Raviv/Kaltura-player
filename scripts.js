@@ -39,6 +39,12 @@ description: '<ul><li>Dedicated sleek and slim audio player. </li><li>Customize 
 
 v7:`<div class="playermin"><div class="center"><div class="audioplayer"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54614902?iframeembed=true&entry_id=1_f8jmu6cv' style=" width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div></div></div>`
       },
+      {
+title: "Interactive video",
+description: 'Engage viewers with personalized, interactive video that let them choose their own adventure.',
+
+v7: `<div class="player"><iframe src="player.html" style="position: absolute;"></iframe></div>`
+      },
        {
 title: "Playlist",
 description: '<ul><li>Review sleek and updated UX/UI of the playlist.</li></ul>',
