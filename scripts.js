@@ -15,7 +15,7 @@ document.onreadystatechange = function () {
 const table = [
       {
 title: "Dual screen + hotspot + chapters",
-description: '<ul><li><b>Dual screen-</b> a customized experience for every viewer, in an improved UX/UI. Hover on the scrubber for a dual-stream preview of the playback area.</li><li><b>Hotspots-</b> now offering greater control over timing, capabilities, and hotspot look & feel. </li><li><b>Chapters-</b> searchable and available to view right from the scrubber. Click on the navigation button to review hotspots and chapters</li></ul>',
+description: '<ul><li><b>Dual screen:</b> A combined playback experience of two videos on a single video player. Viewers customize their experience in real-time by choosing which stream to focus on, and how to watch the content: side by side or picture in picture view.</li><li><b>Enriched scrubber experience:</b> Hover over the scrubber for a dual thumbnail that helps viewers keep track of what is next or what was just played a few moments back, chapters included. </li><li><b>Hotspots and CTA:</b> Grab viewers attention by adding a hotspot to your video. Include any CTA such a URL, supplemental information, jump to a point in time, or add a "mailto" address for contact. </li><li><b>Chapters:</b> Segment the video to different topics by adding chapters. Click on the magnifying glass to review and search all chapters or hover over the scrubber to view one by one.</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54381072?iframeembed=true&entry_id=1_4r0o7gtg' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
 
@@ -23,13 +23,13 @@ v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.ka
 
       {
 title: "Quiz",
-description: '<ul><li>Now easier for users to take a quiz, review their answers, navigate to the right questions, and submit.</li><li>Checkout the chapters inside the navigation menu.</li><li>Quiz questions are now also available to view in the navigation menu.</li></ul>',
+description: 'Add a layer of interactivity to videos with the Kaltura quiz. All items below can be customized to fit customers requirements:<br><br><ul><li>Add any type of question along the video user can answer, skip, or come back to</li><li>Quiz takers can download the quiz </li><li>Questions are available to view and navigate back to in the navigation menu</li><li>Scrubber indicates a timestamp of when questions are presented in the video</li><li>Submit and review right/wrong answers</li></ul>',
 
 v7: `<div class="player"><iframe type="text/javascript"src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54614992?iframeembed=true&entry_id=1_xutec75g' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
       {
-title: "Transcript",
-description: '<ul><li>Now part of the player’s UI so admins can embed everywhere.</li><li>Clickable timestamp takes you to any point in the video.</li><li>Click on the settings button in the play bar area to customize how captions appear on the screen- decide between different sizes, backgrounds, font size, and more.</li></ul>',
+title: "Transcript and captions",
+description: 'Increase accessibility, searchability, and discoverability of your video using captions and transcript<br><br><ul><li><b>Transcript:</b> view side-by-side while the video is playing. Search the transcript to find the exact point in the video a word of a phrase were said and click to watch.</li><li><b>Captions:</b> add any captions files and customize look and feel in the "Settings" menu. Viewers can pick preferred size, alignment, color, font type, and more.</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615092?iframeembed=true&entry_id=1_iaro3qez' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
