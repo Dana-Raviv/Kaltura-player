@@ -28,7 +28,7 @@ description: 'Add a layer of interactivity to videos with the Kaltura quiz. All 
 v7: `<div class="player"><iframe type="text/javascript"src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54614992?iframeembed=true&entry_id=1_xutec75g' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
       {
-title: "Transcript and captions",
+title: "Transcript + captions",
 description: 'Increase accessibility, searchability, and discoverability of your video using captions and transcript<br><br><ul><li><b>Transcript:</b> view side-by-side while the video is playing. Search the transcript to find the exact point in the video a word of a phrase were said and click to watch.</li><li><b>Captions:</b> add any captions files and customize look and feel in the "Settings" menu. Viewers can pick preferred size, alignment, color, font type, and more.</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615092?iframeembed=true&entry_id=1_iaro3qez' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
@@ -41,19 +41,19 @@ v7:`<div class="playermin"><div class="center"><div class="audioplayer"><iframe 
       },
       {
 title: "Interactive video",
-description: 'Engage viewers with personalized, interactive video that let them choose their own adventure.',
+description: 'Promote active and intuitive viewing experience where viewers can choose their own path to watch a video:<br><br><ul><li>Great storytelling tool to create engaging scenarios and paths to learn something new, release a new product, share something with your audiences</li><li>Viewers will have a personalized experience every time they watch the video</li><li>Navigate between the different tracks or go back to the main menu to watch something different</li></ul>',
 
 v7: `<div class="player"><iframe src="player.html" style="position: absolute;"></iframe></div>`
       },
        {
 title: "Playlist",
-description: '<ul><li>Review sleek and updated UX/UI of the playlist.</li></ul>',
+description: 'Combine different types of assets into one convenient playlist<br><br><ul><li>Add documents, quiz entries, videos, audio entries, images into one playlist</li><li>Can be embedded everywhere</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615102?iframeembed=true&playlist_id=1_rdw2sl8a' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
 {
 title: "Download + info + share",
-description: '<ul><li><b>Download-</b> Download captions, flavors, transcript, and attachments right from the player.</li><li><b>Info-</b> Updated UI/UX now including content owner.</li><li><b>Share-</b> Additional sharing option- share a clip.</li></ul>',
+description: '<ul><li><b>Download:</b> download captions, flavors, transcript, and attachments right from the player</li><li><b>Info:</b> add a written introduction to a video to improve discoverability and SEO with the Info plugin. Include additional information like video author, # of plays, and more</li><li><b>Share:</b> increase engagement with viewers by adding a Share button. Viewers can create a clip, share the whole video or from a certain timestamp</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615112?iframeembed=true&entry_id=1_4r0o7gtg' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
