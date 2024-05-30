@@ -29,7 +29,7 @@ v7: `<div class="player"><iframe type="text/javascript"src='https://cdnapisec.ka
       },
       {
 title: "Transcript + captions",
-description: 'Increase accessibility, searchability, and discoverability of your video using captions and transcript<br><br><ul><li><b>Transcript:</b> view side-by-side while the video is playing. Search the transcript to find the exact point in the video a word of a phrase were said and click to watch.</li><li><b>Captions:</b> add any captions files and customize look and feel in the "Settings" menu. Viewers can pick preferred size, alignment, color, font type, and more.</li></ul>',
+description: 'Increase accessibility, searchability, and discoverability of your video using captions and transcript<br><br><ul><li><b>Transcript:</b> View side-by-side while the video is playing. Search the transcript to find the exact point in the video a word of a phrase were said and click to watch.</li><li><b>Captions:</b> Add any captions files and customize look and feel in the "Settings" menu. Viewers can pick preferred size, alignment, color, font type, and more.</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615092?iframeembed=true&entry_id=1_iaro3qez' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
@@ -53,7 +53,7 @@ v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.ka
       },
 {
 title: "Download + info + share",
-description: '<ul><li><b>Download:</b> download captions, flavors, transcript, and attachments right from the player</li><li><b>Info:</b> add a written introduction to a video to improve discoverability and SEO with the Info plugin. Include additional information like video author, # of plays, and more</li><li><b>Share:</b> increase engagement with viewers by adding a Share button. Viewers can create a clip, share the whole video or from a certain timestamp</li></ul>',
+description: '<ul><li><b>Download:</b> Download captions, flavors, transcript, and attachments right from the player</li><li><b>Info:</b> Add a written introduction to a video to improve discoverability and SEO with the Info plugin. Include additional information like video author, # of plays, and more</li><li><b>Share:</b> Increase engagement with viewers by adding a Share button. Viewers can create a clip, share the whole video or from a certain timestamp</li></ul>',
 
 v7:`<div class="player"><iframe type="text/javascript" src='https://cdnapisec.kaltura.com/p/1912501/embedPlaykitJs/uiconf_id/54615112?iframeembed=true&entry_id=1_4r0o7gtg' style="position: absolute; width: 100%; height: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe></div>`
       },
